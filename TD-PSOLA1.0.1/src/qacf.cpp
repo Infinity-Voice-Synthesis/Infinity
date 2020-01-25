@@ -92,7 +92,7 @@ double qacf::gf(QVector<qreal>* data,double cut,int fs)
     {
         maxn=qMax(dataca->at(i),maxn);
     }
-    int out;
+    int out=0;
     for (int i=af;i<rf;i++)
     {
         if(dataca->at(i)==maxn)
