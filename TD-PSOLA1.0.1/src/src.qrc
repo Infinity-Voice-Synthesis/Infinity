@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>infinity~1.ico</file>
+    </qresource>
+    <qresource prefix="/imag">
+        <file>infinity.png</file>
+        <file>infinity_s.png</file>
+        <file>splash.png</file>
+    </qresource>
+</RCC>
