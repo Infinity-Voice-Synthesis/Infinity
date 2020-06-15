@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imags">
+        <file>Infinity LOGO.png</file>
+    </qresource>
+</RCC>
