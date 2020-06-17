@@ -1,0 +1,30 @@
+[Engine]
+name=AEGModel
+id=00002
+icon=
+cla=AEG
+EFF=Reverb Compressor
+
+[Reverb]
+sets=time dry wet
+time-up=1
+time-down=0
+time-normal=0.5
+dry-up=1
+dry-down=0
+dry-normal=0
+wet-up=1
+wet-down=0
+wet-normal=0
+
+[Compressor]
+sets=gate proportion gain
+gate-up=1
+gate-down=0
+gate-normal=1
+proportion-up=2
+proportion-down=0
+proportion-normal=1
+gain-up=20
+gain-down=-20
+gain-normal=0
