@@ -1,0 +1,15 @@
+#ifndef QNOTE_H
+#define QNOTE_H
+
+#include "qifnote.h"
+
+class QNote : public QIFnote
+{
+public:
+    QNote();
+    bool select=false;//编辑器选择
+    bool moving=false;//编辑器移动音符
+    bool timing=false;//编辑器修改音符时长
+};
+
+#endif // QNOTE_H
