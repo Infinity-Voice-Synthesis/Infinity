@@ -1,0 +1,15 @@
+[Engine]
+name=SEGModel
+id=00001
+icon=
+tool=
+lan=MAN
+cla=SEG
+FST=
+WST=DYN
+DB=DBModel
+
+[DYN]
+up=1
+down=0
+normal=1
